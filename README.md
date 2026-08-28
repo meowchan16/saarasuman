@@ -13,7 +13,7 @@ I work in empty space.
 
 <br />
 
-### 🍷 Know About Me
+### 🔗 Know About Me
 
 <table>
   <tr>
@@ -33,15 +33,15 @@ I work in empty space.
       </p>
       <br />
       <p>
-        <b>⚙️ Tech Stack:</b><br />
-        <img src="https://img.shields.io/badge/PYTHON-881337?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-881337?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-881337?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/JAVA-881337?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JS-881337?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/LINUX-881337?style=flat-square&logo=linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/NETWORKING-881337?style=flat-square&logo=cisco&logoColor=white" />
-        <img src="https://img.shields.io/badge/RUST-881337?style=flat-square&logo=rust&logoColor=white" />
+        <b>⚙️ Tech Stack & Tools:</b><br />
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/NETWORKING-0055FF?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -49,7 +49,7 @@ I work in empty space.
 
 ---
 
-### 🍷 Top Projects & Endeavors
+### 🔗 Top Projects & Endeavors
 
 <table>
   <tr>
@@ -84,12 +84,12 @@ I work in empty space.
 
 ---
 
-### 🍷 Connect & Philosophy
+### 🔗 Connect & Philosophy
 
 <p align="center">
-  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GITHUB-881337?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-881337?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saarasuman1610@gmail.com"><img src="https://img.shields.io/badge/GMAIL-881337?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saarasuman1610@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 > *Code is never finished. It only becomes slightly less terrible over time.*
@@ -98,8 +98,12 @@ I work in empty space.
 
 ---
 
-### 🍷 Activity Analytics
+### 🔗 Activity & Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=maroon&hide_border=true&background=4C0519&stroke=881337&fire=F43F5E" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meowchan16/meowchan16/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
