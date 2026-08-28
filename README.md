@@ -49,27 +49,6 @@ I work in empty space.
 
 ---
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/meowchan16/aws-cloud-troubleshooting-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-cloud-troubleshooting-lab&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/meowchan16/aws-cloudwatch-billing-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-cloudwatch-billing-lab&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/meowchan16/aws-iam-troubleshooting-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-iam-troubleshooting-lab&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/meowchan16/multi-vlan-campus-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=multi-vlan-campus-network&theme=dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 🔗 Top Projects & Endeavors
 
 <table>
