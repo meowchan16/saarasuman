@@ -33,7 +33,7 @@ I work in empty space.
       </p>
       <br />
       <p>
-        <b>⚙️ Tech Stack:</b><br />
+        <b>⚙️ Tech Stack & Tools:</b><br />
         <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -102,4 +102,8 @@ I work in empty space.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meowchan16/meowchan16/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
