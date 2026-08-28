@@ -9,8 +9,8 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/saarasuman"><img src="https://img.shields.io/github/followers/saarasuman?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" /></a>
-  <a href="https://komarev.com/ghpvc/?username=saarasuman&color=38bdf8&style=for-the-badge&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=saarasuman&color=38bdf8&style=for-the-badge&label=Profile+Views" /></a>
+  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/github/followers/meowchan16?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" /></a>
+  <a href="https://komarev.com/ghpvc/?username=meowchan16&color=38bdf8&style=for-the-badge&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=meowchan16&color=38bdf8&style=for-the-badge&label=Profile+Views" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Exploring%20Rust%20🦀%20%26%20Systems-emerald?style=for-the-badge" /></a>
 </p>
 
@@ -22,6 +22,8 @@
 
 ```javascript
 const saara = {
+  name: "Saara Suman",
+  github: "meowchan16",
   code: ["Python", "C", "C++", "Java", "JavaScript"],
   learning: ["Rust 🦀", "Memory Safety & High-Performance Systems"],
   fieldsOfInterest: ["Systems Programming", "Software Engineering", "Full-Stack Dev", "Algorithms"],
@@ -80,12 +82,12 @@ Here is a highlight of the key software projects and systems I've engineered acr
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saarasuman&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarasuman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saarasuman&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=F43F5E" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=F43F5E" height="150" />
 </p>
 
 ---
@@ -95,7 +97,7 @@ Here is a highlight of the key software projects and systems I've engineered acr
 ### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://github.com/saarasuman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
