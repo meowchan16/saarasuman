@@ -1,15 +1,17 @@
 <div align="center">
-
-<!-- YOUR UPLOADED CREATION OF ADAM HEADER BANNER -->
-<img src="./header.png" width="100%" alt="Creation of Adam Header" />
-
-<br /><br />
-
-# Namaste 👋 I'm Saara Suman
-
+  <img src="./header.png" width="100%" alt="Creation of Adam Header" />
 </div>
 
+<br />
+
+# Hey, It's Saara here
+
 ---
+
+I like building things that make sense.  
+I work in empty space.
+
+<br />
 
 ### 🔗 Know About Me
 
