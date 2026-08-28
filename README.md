@@ -101,10 +101,5 @@ I work in empty space.
 ### 🔗 Activity & Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=dark&hide_border=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=dark&hide_border=true" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=dark&hide_border=true" height="145" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=dark&hide_border=true" height="150" />
 </p>
