@@ -52,8 +52,19 @@ I work in empty space.
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/meowchan16/saarasuman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=saarasuman&theme=dark&hide_border=true" />
+  <a href="https://github.com/meowchan16/aws-cloud-troubleshooting-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-cloud-troubleshooting-lab&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/meowchan16/aws-cloudwatch-billing-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-cloudwatch-billing-lab&theme=dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/meowchan16/aws-iam-troubleshooting-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=aws-iam-troubleshooting-lab&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/meowchan16/multi-vlan-campus-network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=multi-vlan-campus-network&theme=dark&hide_border=true" />
   </a>
 </p>
 
@@ -66,23 +77,23 @@ I work in empty space.
     <td width="75%" valign="top">
       <ul>
         <li>
-          <b>☁️ CLOUD & NETWORKING PROJECTS</b><br />
-          <i>Small cloud deployments, Linux system configuration, network protocols, and infrastructure experiments.</i>
+          <b>☁️ <a href="https://github.com/meowchan16/aws-cloud-troubleshooting-lab">aws-cloud-troubleshooting-lab</a></b><br />
+          <i>AWS cloud infrastructure troubleshooting, HCL configuration, and cloud diagnostics lab.</i>
         </li>
         <br />
         <li>
-          <b>⚙️ DSA & SYSTEMS (C / C++)</b><br />
-          <i>Mastering Data Structures & Algorithms, memory management, and low-level performance optimization.</i>
+          <b>📊 <a href="https://github.com/meowchan16/aws-cloudwatch-billing-lab">aws-cloudwatch-billing-lab</a></b><br />
+          <i>AWS CloudWatch metric alarms, cost management, and automated billing notification setups.</i>
         </li>
         <br />
         <li>
-          <b>🐍 PYTHON & JAVA SOFTWARE SUITE</b><br />
-          <i>Object-oriented software development, scripting, and modular application tools.</i>
+          <b>🔐 <a href="https://github.com/meowchan16/aws-iam-troubleshooting-lab">aws-iam-troubleshooting-lab</a></b><br />
+          <i>AWS Identity and Access Management policies, security role debugging, and permission validations.</i>
         </li>
         <br />
         <li>
-          <b>🦀 RUST MEMORY SAFETY EXPLORATION</b><br />
-          <i>Learning zero-cost abstractions, ownership rules, and memory-safe systems programming.</i>
+          <b>🌐 <a href="https://github.com/meowchan16/multi-vlan-campus-network">multi-vlan-campus-network</a></b><br />
+          <i>Network engineering lab for multi-VLAN campus network architecture, switching, and routing.</i>
         </li>
       </ul>
     </td>
