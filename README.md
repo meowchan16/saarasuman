@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- ELEGANT ROYAL EMERALD / MAROON HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=custom&customColorList=022C22,064E3B,881337,059669&height=200&section=header&text=Saara%20Suman&fontSize=50&fontColor=FEF3C7&fontAlignY=40&desc=Systems%20%26%20Software%20Engineer&descFontSize=20&descAlignY=68&descAlign=50" width="100%" />
+# 🌲 Saara Suman
 
-<br />
+### 👑 Systems & Software Engineer
 
-<!-- MATCHING UNIFIED ROYAL BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/meowchan16?label=Followers&style=for-the-badge&color=064E3B&labelColor=022C22" />
-  <img src="https://komarev.com/ghpvc/?username=meowchan16&color=059669&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Focus-Rust%20🦀%20%26%20Systems-881337?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Systems_%26_Algorithms-064E3B?style=for-the-badge&logo=cplusplus&logoColor=FEF3C7" />
+  <img src="https://img.shields.io/badge/Languages-Python_%E2%80%A2_C%2FC%2B%2B_%E2%80%A2_Java_%E2%80%A2_JS-881337?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Rust_🦀-059669?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/github/followers/meowchan16?label=Followers&style=for-the-badge&color=064E3B&labelColor=022C22" /></a>
+  <a href="https://komarev.com/ghpvc/?username=meowchan16&color=059669&style=for-the-badge&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=meowchan16&color=059669&style=for-the-badge&label=Profile+Views" /></a>
 </p>
 
 </div>
