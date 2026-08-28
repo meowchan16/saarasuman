@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- TOP CREATION OF ADAM HEADER BANNER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- YOUR UPLOADED CREATION OF ADAM HEADER BANNER -->
+<img src="./header.png" width="100%" alt="Creation of Adam Header" />
 
 <br /><br />
 
