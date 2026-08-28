@@ -18,7 +18,7 @@ I work in empty space.
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./brain.png" width="160" alt="Halftone Brain Sticker" />
+      <img src="./avatar.jpg" width="160" style="border-radius: 12px;" alt="Girl with a Pearl Earring" />
     </td>
     <td width="70%" valign="top">
       <h3>Hey there! I'm Saara 💻</h3>
