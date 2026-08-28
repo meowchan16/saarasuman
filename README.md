@@ -1,107 +1,105 @@
 <div align="center">
 
-<!-- ANIMATED CYBERPUNK HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,25,30&height=230&section=header&text=Hi,%20I'm%20Saara%20Suman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- ELEGANT ROYAL EMERALD / MAROON HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=custom&customColorList=022C22,064E3B,881337,059669&height=200&section=header&text=Saara%20Suman&fontSize=50&fontColor=FEF3C7&fontAlignY=40&desc=Systems%20%26%20Software%20Engineer&descFontSize=20&descAlignY=68&descAlign=50" width="100%" />
 
-<!-- TYPING SUBTITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&text=Systems+%26+Software+Engineer+%7C+Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Java+%E2%80%A2+JS+%7C+Learning+Rust+%F0%9F%A6%80&pause=1000&color=38BDF8&center=true&width=650&height=45" alt="Typing SVG" />
-</a>
+<br />
 
+<!-- MATCHING UNIFIED ROYAL BADGES -->
 <p align="center">
-  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/github/followers/meowchan16?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" /></a>
-  <a href="https://komarev.com/ghpvc/?username=meowchan16&color=38bdf8&style=for-the-badge&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=meowchan16&color=38bdf8&style=for-the-badge&label=Profile+Views" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Exploring%20Rust%20🦀%20%26%20Systems-emerald?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/github/followers/meowchan16?label=Followers&style=for-the-badge&color=064E3B&labelColor=022C22" />
+  <img src="https://komarev.com/ghpvc/?username=meowchan16&color=059669&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Focus-Rust%20🦀%20%26%20Systems-881337?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ Developer Terminal
+### 🌿 About Me
 
-```javascript
-const saara = {
-  name: "Saara Suman",
-  github: "meowchan16",
-  code: ["Python", "C", "C++", "Java", "JavaScript"],
-  learning: ["Rust 🦀", "Memory Safety & High-Performance Systems"],
-  fieldsOfInterest: ["Systems Programming", "Software Engineering", "Full-Stack Dev", "Algorithms"],
-  motto: "Crafting efficient, robust code from low-level systems to modern web applications."
-};
-```
+> **"Crafting high-performance systems and elegant software architectures."**
+
+- 🔭 Currently building **high-performance systems** in **C / C++** and exploring **Rust 🦀**
+- 🐍 Experienced in **Python**, **Java**, and **JavaScript** for full-stack and automation tools
+- 🎯 Focus: Low-level optimization, memory safety, algorithms, and clean software design
+- 💬 Ask me about: Data Structures, C/C++ memory management, or Python automation
 
 ---
 
-### 💻 Tech Stack & Tooling
+### 🏛️ Technical Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,rust,git,github,vscode,linux,docker,bash&perline=6" />
-  </a>
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-#### Core Languages & Ecosystem
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `C` `C++` `Java` `JavaScript` `Rust (Learning)` |
-| **Development & Tools** | `Git` `GitHub` `VS Code` `Linux Shell / Bash` `Docker` |
+#### 🛠️ Dev Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash&perline=6" />
+</p>
 
 ---
 
-### 🚀 Projects Showcase
+### 💎 Featured Projects
 
-Here is a highlight of the key software projects and systems I've engineered across low-level and high-level domains:
-
-#### 1. ⚙️ High-Performance Systems & Algorithms (C / C++)
-- **Overview**: Memory-efficient data structures, low-level system utilities, and performance-optimized algorithms built with C & C++.
-- **Key Features**: Direct memory management, multithreaded processing, optimized computational speed.
-- **Tech Stack**: `C` `C++` `GDB` `Valgrind` `Make`
-
-#### 2. 🐍 Python Automation & Software Tools (Python)
-- **Overview**: Custom Python automation scripts, CLI utilities, and data processing tools designed to automate repetitive workflows.
-- **Key Features**: REST API integration, web scraping/parsing, async task execution, modular package architecture.
-- **Tech Stack**: `Python` `Asyncio` `Requests` `pytest`
-
-#### 3. ☕ Enterprise & OOP Applications (Java)
-- **Overview**: Robust object-oriented software systems featuring strong encapsulation, design patterns, and scalable data models.
-- **Key Features**: Clean architectural design patterns (MVC, Factory, Singleton), file I/O, database handling.
-- **Tech Stack**: `Java` `OOP` `JUnit` `Maven`
-
-#### 4. 🌐 Modern Web Applications (JavaScript)
-- **Overview**: Interactive web applications and tools built with JavaScript, prioritizing smooth UX and responsive client-side logic.
-- **Key Features**: Async dynamic rendering, API integration, clean CSS/DOM architecture.
-- **Tech Stack**: `JavaScript` `HTML5` `CSS3` `Node.js`
-
-#### 5. 🦀 Rust Systems Exploration *(Work in Progress)*
-- **Overview**: Building safe, concurrent system utilities to master Rust's ownership model, lifetimes, and zero-cost abstractions.
-- **Goal**: Transitioning core system components to memory-safe Rust!
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Systems & Low-Level (C / C++)</h3>
+      <p align="center">Memory-efficient data structures, multithreaded utilities, and algorithm optimizations.</p>
+      <p align="center"><code>C</code> <code>C++</code> <code>GDB</code> <code>Valgrind</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐍 Python Automation Suite</h3>
+      <p align="center">Modular CLI tools, asynchronous data processing, and API integration tools.</p>
+      <p align="center"><code>Python</code> <code>Asyncio</code> <code>REST APIs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Enterprise Java Systems</h3>
+      <p align="center">Object-oriented software architectures implementing clean design patterns and data persistence.</p>
+      <p align="center"><code>Java</code> <code>OOP</code> <code>JUnit</code> <code>Maven</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🦀 Rust Memory Safety Exploration</h3>
+      <p align="center">Concurrent, high-throughput system utilities leveraging Rust's ownership model.</p>
+      <p align="center"><code>Rust</code> <code>Cargo</code> <code>Systems</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 Activity & Language Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=emerald&hide_border=true&bg_color=022C22&title_color=10B981&icon_color=059669&text_color=ECFDF5" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=emerald&hide_border=true&bg_color=022C22&title_color=10B981&text_color=ECFDF5" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=F43F5E" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=emerald&hide_border=true&background=022C22&stroke=059669&ring=10B981&fire=F59E0B" height="150" />
 </p>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GitHub-022C22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-881337?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>Designed with Cyberpunk Aesthetic | Powered by GitHub</sub>
+<br />
+
+<sub>Designed with Royal Emerald & Maroon Aesthetic</sub>
 
 </div>
