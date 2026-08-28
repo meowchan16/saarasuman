@@ -77,7 +77,7 @@ I work in empty space.
       </ul>
     </td>
     <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="130" />
+      <img src="./michelangelo.png" width="150" style="border-radius: 10px;" alt="Michelangelo with Ribbons" />
     </td>
   </tr>
 </table>
