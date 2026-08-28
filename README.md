@@ -23,13 +23,13 @@ I work in empty space.
     <td width="70%" valign="top">
       <h3>Hey there! I'm Saara 💻</h3>
       <p>
-        I'm a Computer Science student diving deep into software development and algorithms.
+        I'm a Computer Science student passionate about software development, systems, and cloud architecture.
       </p>
       <p>
-        By day, I'm building projects, mastering data structures, and writing code in <b>Python</b>, <b>C</b>, <b>C++</b>, <b>Java</b>, and <b>JavaScript</b>.
+        I have built small <b>cloud projects</b> and am actively learning <b>Networking fundamentals</b> and <b>Linux system administration</b>.
       </p>
       <p>
-        Currently, I'm focusing my energy on exploring low-level concepts and learning <b>Rust 🦀</b> to build safe, high-performance software.
+        Alongside cloud and networking, I'm mastering <b>Data Structures & Algorithms (DSA)</b> and writing code in <b>C</b>, <b>C++</b>, <b>Python</b>, <b>Java</b>, and <b>JavaScript</b> — while currently learning <b>Rust 🦀</b>!
       </p>
       <br />
       <p>
@@ -39,6 +39,8 @@ I work in empty space.
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/NETWORKING-0055FF?style=flat-square&logo=cisco&logoColor=white" />
         <img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" />
       </p>
     </td>
@@ -54,22 +56,22 @@ I work in empty space.
     <td width="75%" valign="top">
       <ul>
         <li>
-          <b>SYSTEMS & ALGORITHMS (C / C++)</b><br />
-          <i>Memory-efficient data structures, pointer mechanics, and algorithmic performance testing.</i>
+          <b>☁️ CLOUD & NETWORKING PROJECTS</b><br />
+          <i>Small cloud deployments, Linux system configuration, network protocols, and infrastructure experiments.</i>
         </li>
         <br />
         <li>
-          <b>PYTHON AUTOMATION SUITE</b><br />
-          <i>A collection of Python scripts built to automate workflows, parsing data with caffeine and print statements.</i>
+          <b>⚙️ DSA & SYSTEMS (C / C++)</b><br />
+          <i>Mastering Data Structures & Algorithms, memory management, and low-level performance optimization.</i>
         </li>
         <br />
         <li>
-          <b>JAVA OBJECT-ORIENTED SOFTWARE</b><br />
-          <i>Clean OOP applications built with strong encapsulation, inheritance, and modular structure.</i>
+          <b>🐍 PYTHON & JAVA SOFTWARE SUITE</b><br />
+          <i>Object-oriented software development, scripting, and modular application tools.</i>
         </li>
         <br />
         <li>
-          <b>RUST MEMORY SAFETY EXPLORATION 🦀</b><br />
+          <b>🦀 RUST MEMORY SAFETY EXPLORATION</b><br />
           <i>Learning zero-cost abstractions, ownership rules, and memory-safe systems programming.</i>
         </li>
       </ul>
