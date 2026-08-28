@@ -1,89 +1,106 @@
 <div align="center">
 
-<!-- AESTHETIC COSMIC FLUID HEADER BANNER -->
+<!-- TOP CREATION OF ADAM HEADER BANNER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br /><br />
 
-<!-- ELEGANT PILL BUTTONS -->
+# Namaste 👋 I'm Saara Suman
+
+</div>
+
+---
+
+### 🔗 Know About Me
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4anZrd2pldmpzZzJzeThyc3d4d3JreTdqcnVxb2FybndtbWk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="160" style="border-radius: 12px;" />
+    </td>
+    <td width="70%" valign="top">
+      <h3>Hey there! I'm Saara 💻</h3>
+      <p>
+        I'm a Computer Science student diving deep into software development and algorithms.
+      </p>
+      <p>
+        By day, I'm building projects, mastering data structures, and writing code in <b>Python</b>, <b>C</b>, <b>C++</b>, <b>Java</b>, and <b>JavaScript</b>.
+      </p>
+      <p>
+        Currently, I'm focusing my energy on exploring low-level concepts and learning <b>Rust 🦀</b> to build safe, high-performance software.
+      </p>
+      <br />
+      <p>
+        <b>⚙️ Tech Stack:</b><br />
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Top Projects & Endeavors
+
+<table>
+  <tr>
+    <td width="75%" valign="top">
+      <ul>
+        <li>
+          <b>SYSTEMS & ALGORITHMS (C / C++)</b><br />
+          <i>Memory-efficient data structures, pointer mechanics, and algorithmic performance testing.</i>
+        </li>
+        <br />
+        <li>
+          <b>PYTHON AUTOMATION SUITE</b><br />
+          <i>A collection of Python scripts built to automate workflows, parsing data with caffeine and print statements.</i>
+        </li>
+        <br />
+        <li>
+          <b>JAVA OBJECT-ORIENTED SOFTWARE</b><br />
+          <i>Clean OOP applications built with strong encapsulation, inheritance, and modular structure.</i>
+        </li>
+        <br />
+        <li>
+          <b>RUST MEMORY SAFETY EXPLORATION 🦀</b><br />
+          <i>Learning zero-cost abstractions, ownership rules, and memory-safe systems programming.</i>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="130" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect & Philosophy
+
 <p align="center">
   <a href="https://github.com/meowchan16"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saarasuman1610@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>
-
-<br />
-
-<!-- MAIN BIO CARD CONTAINER -->
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h2>> Hey there! I'm Saara 👋</h2>
-      <p><b>Computer Science Student & Aspiring Software Developer</b></p>
-      <p>
-        I am a Computer Science student passionate about software development, building clean applications, and exploring how systems work under the hood.
-      </p>
-      <p>
-        Currently, I am working with <b>Python</b>, <b>C</b>, <b>C++</b>, <b>Java</b>, and <b>JavaScript</b>. My goal is to build strong core fundamentals in algorithms and software design while learning <b>Rust 🦀</b>.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/saarasuman/saarasuman/main/assets/planet.gif" onError="this.onerror=null;this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4anZrd2pldmpzZzJzeThyc3d4d3JreTdqcnVxb2FybndtbWk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif';" width="170" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### 🛠️ Tech Stack & Languages
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,rust,git,github,vscode,linux,docker,bash&perline=6" />
-  </a>
-</p>
+> *Code is never finished. It only becomes slightly less terrible over time.*
+>
+> *Every commit I make is essentially just a small, desperate apology to my future self.*
 
 ---
 
-### 🚀 Projects & Learning Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ C / C++ Systems & Algorithms</h4>
-      <p>Memory management, algorithms, and data structure implementations built for performance.</p>
-      <p><code>C</code> <code>C++</code> <code>Algorithms</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🐍 Python Automation & Tools</h4>
-      <p>Creating automation scripts, utilities, and backend integration tools.</p>
-      <p><code>Python</code> <code>Automation</code> <code>Scripting</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☕ Java Software Projects</h4>
-      <p>Building object-oriented applications with clean architecture and OOP principles.</p>
-      <p><code>Java</code> <code>OOP</code> <code>Software Dev</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🦀 Learning Rust (In Progress)</h4>
-      <p>Exploring Rust's memory safety, ownership rules, and concurrent systems programming.</p>
-      <p><code>Rust</code> <code>Memory Safety</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity
+### 🔗 Activity & Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowchan16&show_icons=true&theme=dark&hide_border=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowchan16&layout=compact&theme=dark&hide_border=true" height="155" />
 </p>
 
-<!-- BOTTOM ACCENT BANNER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowchan16&theme=dark&hide_border=true" height="145" />
+</p>
