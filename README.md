@@ -49,6 +49,16 @@ I work in empty space.
 
 ---
 
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/meowchan16/saarasuman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowchan16&repo=saarasuman&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🔗 Top Projects & Endeavors
 
 <table>
