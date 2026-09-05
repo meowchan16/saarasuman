@@ -8,7 +8,7 @@
 
 ---
 
-*“If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?”*
+*“An idiot in motion moves faster than a genius at rest.”*
 
 <br />
 
